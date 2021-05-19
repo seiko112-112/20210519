@@ -1,0 +1,95 @@
+.firstview img{
+  height: 400px;
+  width: 100%;
+}
+.firstview {
+  position: relative;
+}
+.firstview p {
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+  top: 200px;
+  left: 600px;
+}
+.about {
+  padding: 50px 100px;
+  line-height: 30px;
+  text-align: center;
+}
+.about_ttl {
+  font-weight: bold;
+  font-size: 30px;
+  padding: 10px 200px;
+}
+span {
+  font-weight: bold;
+}
+.about p{
+  padding: 20px 0;
+}
+.blog_ttl {
+  font-weight: bold;
+  font-size: 30px;
+  padding: 10px 200px;
+  text-align: center;
+}
+.flex_blog {
+  display: flex;
+  justify-content: space-between;
+}
+.blog_img {
+  width: 30%;
+  padding: 30px 32px;
+}
+.blog_img img {
+  width: 100%;
+}
+.form_ttl {
+  font-weight: bold;
+  font-size: 30px;
+  padding: 10px 200px;
+  text-align: center;
+}
+.form-item {
+  width: 780px;
+  display: flex;
+  margin: 20px 200px;
+}
+.form-item-label {
+  width: 100%;
+  font-weight: bold;
+  font-size: 16px;
+}
+.form-item-input {
+  padding: 5px 200px;
+}
+.option {
+  margin-right: 420px;
+}
+.form-item-textarea {
+  width: 1800px;
+  height: 300px;
+}
+.form-btn {
+  padding: 20px 250px;
+  text-align: center;
+}
+.form-btn1 {
+  background-color: #dcdcdc;
+  font-size: 18px;
+  width: 200px;
+  height: 40px;
+  border: none;
+  margin: 0 10px;
+}
+.form-btn2 {
+  background-color: #40e0d0;
+  font-size: 18px;
+  color: white;
+  width: 200px;
+  height: 40px;
+  border: none;
+   margin: 0 10px;
+}
