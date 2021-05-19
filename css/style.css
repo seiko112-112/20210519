@@ -28,6 +28,7 @@ span {
 }
 .about p{
   padding: 20px 0;
+  line-height: 30px;
 }
 .blog_ttl {
   font-weight: bold;
@@ -39,9 +40,13 @@ span {
   display: flex;
   justify-content: space-between;
 }
+.blog_img p {
+  line-height: 30px;
+  font-size: 18px;
+}
 .blog_img {
-  width: 30%;
-  padding: 30px 32px;
+  width: 26%;
+  padding: 30px 30px;
 }
 .blog_img img {
   width: 100%;
